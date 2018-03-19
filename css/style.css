@@ -9,6 +9,10 @@ body,
   font-family: 'Josefin Slab', serif;
 }  
 
+.logoSlider{
+  font-size: 80px;
+}
+
 /* Full Page Carousel itself*/
 .carousel {
   height: 100%; }
